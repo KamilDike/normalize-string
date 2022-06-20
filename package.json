@@ -1,5 +1,5 @@
 {
-  "name": "normalize-string",
+  "name": "normalize-string-ts",
   "version": "1.0.0",
   "description": "Return string without diacritics",
   "main": "index.ts",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/KamilDike/normalize-string.git"
   },
   "keywords": [
-    "normalize",
+    "normalize-string",
     "string",
     "remove-diacritics",
     "diacritics"
