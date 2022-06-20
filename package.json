@@ -1,0 +1,32 @@
+{
+  "name": "normalize-string",
+  "version": "1.0.0",
+  "description": "Return string without diacritics",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamilDike/normalize-string.git"
+  },
+  "keywords": [
+    "normalize",
+    "string",
+    "remove-diacritics",
+    "diacritics"
+  ],
+  "author": "Kamil Dike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KamilDike/normalize-string/issues"
+  },
+  "homepage": "https://github.com/KamilDike/normalize-string#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.2",
+    "jest": "^28.1.1",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
+}
